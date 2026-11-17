@@ -1,22 +1,22 @@
 # 💫 About Me:
-Name: Shams Malik
-Professional Title: Founder & Developer | Shams Smart Services
+**Name**: Shams Malik
+**Professional Title:** Founder & Developer | Shams Smart Services
 Company / Brand: Shams Smart Services (شمس للخدمات الذكية)
 
 I am a passionate technology enthusiast, app developer, and founder of Shams Smart Services. I focus on building smart digital solutions, mobile applications, and practical utility tools that make everyday tasks easier.
 
-Current Project: Shams Smart Services
-Project Description:
+**Current Project**: Shams Smart Services
+**Project Description**:
 Shams Smart Services is a smart digital platform featuring useful tools and utilities, including Smart Notes, Smart Calendar, Smart Calculator, PDF Tools, QR Generator, QR Scanner, OCR Scanner, Image Tools, Passport Photo, and Smart Spend.
 
-Interests:
+**Interests:**
 Mobile App Development
 Artificial Intelligence
 Smart Digital Solutions
 Technology & Innovation
 Software Development
 
-Goal:
+**Goal:**
 Building innovative, user-friendly digital products and smart services for everyone.
 
 ## 🌐 Socials:
