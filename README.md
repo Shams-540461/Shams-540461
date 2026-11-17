@@ -1,6 +1,23 @@
 # 💫 About Me:
+Name: Shams Malik
+Professional Title: Founder & Developer | Shams Smart Services
+Company / Brand: Shams Smart Services (شمس للخدمات الذكية)
+
 I am a passionate technology enthusiast, app developer, and founder of Shams Smart Services. I focus on building smart digital solutions, mobile applications, and practical utility tools that make everyday tasks easier.
 
+Current Project: Shams Smart Services
+Project Description:
+Shams Smart Services is a smart digital platform featuring useful tools and utilities, including Smart Notes, Smart Calendar, Smart Calculator, PDF Tools, QR Generator, QR Scanner, OCR Scanner, Image Tools, Passport Photo, and Smart Spend.
+
+Interests:
+Mobile App Development
+Artificial Intelligence
+Smart Digital Solutions
+Technology & Innovation
+Software Development
+
+Goal:
+Building innovative, user-friendly digital products and smart services for everyone.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1E7jtG3vuo/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shamsmalik77?mdxt=bmZlZTlpcDBod3Ns&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shamsuzzuha-malik-2b4a5a372?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6AEp4FMvi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@shamsmalik799?_r=1&_t=ZS-9BUCdK9vQhx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/uzairshams2?s=11&t=otOLyJRe6Rdpnznp_kBb8Q) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@sssmobileapp?si=hQGgObaOQm8u_PT1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asrijahangeeri@gmail.com) 
