@@ -1,6 +1,7 @@
 # 💫 About Me:
 **Name**: Shams Malik
 **Professional Title:** Founder & Developer | Shams Smart Services
+
 **Company / Brand:**      Shams Smart Services  (شمس للخدمات الذكية)
 
 I am a passionate technology enthusiast, app developer, and founder of Shams Smart Services. I focus on building smart digital solutions, mobile applications, and practical utility tools that make everyday tasks easier.
